@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/trident"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 104},"model": "c_o_a_s/104"},
+        {"predicate": {"custom_model_data": 107},"model": "c_o_a_s/107"},
+        {"predicate": {"custom_model_data": 109},"model": "c_o_a_s/109"},
+        {"predicate": {"custom_model_data": 114},"model": "c_o_a_s/114"}
+    ]
+}

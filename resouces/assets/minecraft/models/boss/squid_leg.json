@@ -1,0 +1,25 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "boss/squid"
+	},
+	"elements": [
+		{
+			"from": [7, -16, 12.2],
+			"to": [9, 10, 14.2],
+			"faces": {
+				"north": {"uv": [12.25, 5, 12.5, 7], "texture": "#0"},
+				"east": {"uv": [12.25, 5, 12.5, 7], "texture": "#0"},
+				"south": {"uv": [12.25, 5, 12.5, 7], "texture": "#0"},
+				"west": {"uv": [12.25, 5, 12.5, 7], "texture": "#0"},
+				"up": {"uv": [12.25, 5, 12.5, 7], "texture": "#0"},
+				"down": {"uv": [12.25, 5, 12.5, 7], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [4, 4, 4]
+		}
+	}
+}

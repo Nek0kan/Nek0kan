@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "block/campfire_fire",
+        "layer1": "bless/muscle"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/stone_hoe"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 1},"model": "bless/1"},
+        {"predicate": {"custom_model_data": 2},"model": "bless/2"},
+        {"predicate": {"custom_model_data": 3},"model": "bless/3"},
+        {"predicate": {"custom_model_data": 4},"model": "bless/4"},
+        {"predicate": {"custom_model_data": 5},"model": "bless/5"},
+        {"predicate": {"custom_model_data": 6},"model": "bless/6"},
+        {"predicate": {"custom_model_data": 7},"model": "bless/7"},
+        {"predicate": {"custom_model_data": 8},"model": "bless/8"},
+        {"predicate": {"custom_model_data": 9},"model": "bless/9"},
+        {"predicate": {"custom_model_data": 10},"model": "bless/10"},
+        {"predicate": {"custom_model_data": 11},"model": "bless/11"},
+        {"predicate": {"custom_model_data": 12},"model": "bless/12"},
+        {"predicate": {"custom_model_data": 13},"model": "bless/13"},
+        {"predicate": {"custom_model_data": 14},"model": "bless/14"},
+        {"predicate": {"custom_model_data": 15},"model": "bless/15"},
+        {"predicate": {"custom_model_data": 16},"model": "bless/16"},
+        {"predicate": {"custom_model_data": 17},"model": "bless/17"},
+        {"predicate": {"custom_model_data": 18},"model": "bless/18"},
+        {"predicate": {"custom_model_data": 19},"model": "bless/19"},
+        {"predicate": {"custom_model_data": 20},"model": "bless/20"},
+        {"predicate": {"custom_model_data": 21},"model": "bless/21"},
+        {"predicate": {"custom_model_data": 22},"model": "bless/22"},
+        {"predicate": {"custom_model_data": 23},"model": "bless/23"},
+        {"predicate": {"custom_model_data": 24},"model": "bless/24"},
+        {"predicate": {"custom_model_data": 108},"model": "bless/108"}
+    ]
+}

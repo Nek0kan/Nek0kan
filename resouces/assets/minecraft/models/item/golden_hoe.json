@@ -1,0 +1,31 @@
+{
+    "parent": "item/handheld",
+    "textures": {"layer0": "item/golden_hoe"},
+    "overrides": [
+	{"predicate": {"custom_model_data": 1},"model": "general/quiver"},
+	{"predicate": {"custom_model_data": 3},"model": "general/icicle"},
+	{"predicate": {"custom_model_data": 11},"model": "general/icebergx"},
+	{"predicate": {"custom_model_data": 12},"model": "general/icebergy"},
+	{"predicate": {"custom_model_data": 13},"model": "general/icebergz"},
+	{"predicate": {"custom_model_data": 43},"model": "general/morning_star"},
+	{"predicate": {"custom_model_data": 56},"model": "general/portal"},
+	{"predicate": {"custom_model_data": 63},"model": "general/stone_pillar"},
+	{"predicate": {"custom_model_data": 100},"model": "general/kaminari_mahou_zin"},
+	{"predicate": {"custom_model_data": 101},"model": "general/kaminari_mahou_zin_xz"},
+	{"predicate": {"custom_model_data": 102},"model": "general/r-1"},
+	{"predicate": {"custom_model_data": 103},"model": "general/r-2"},
+	{"predicate": {"custom_model_data": 104},"model": "general/r-3"},
+	{"predicate": {"custom_model_data": 105},"model": "general/dark_circle"},
+	{"predicate": {"custom_model_data": 107},"model": "c_o_a_s/107-off"},
+	{"predicate": {"custom_model_data": 108},"model": "c_o_a_s/108-off"},
+	{"predicate": {"custom_model_data": 200},"model": "general/red_area_0"},
+	{"predicate": {"custom_model_data": 201},"model": "general/red_area_1"},
+	{"predicate": {"custom_model_data": 202},"model": "general/red_area_2"},
+	{"predicate": {"custom_model_data": 203},"model": "general/red_area_3"},
+	{"predicate": {"custom_model_data": 204},"model": "general/red_area_4"},
+	{"predicate": {"custom_model_data": 205},"model": "general/red_area_5"},
+	{"predicate": {"custom_model_data": 206},"model": "general/red_area_6"},
+	{"predicate": {"custom_model_data": 207},"model": "general/red_area_7"},
+	{"predicate": {"custom_model_data": 209},"model": "general/meteor_bullet"}
+    ]
+}

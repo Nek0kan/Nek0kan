@@ -1,0 +1,13 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "weapons/blood_dagger"
+    },
+    "display": {
+		"head": {
+			"rotation": [90, 90, 0],
+			"translation": [0, -3, 0],
+			"scale": [1.8, 1.8, 1.8]
+		}
+	}
+}

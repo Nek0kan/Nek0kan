@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "bakenekokan/magic_gem"
+	},
+	"display": {
+		"ground": {
+			"scale": [0.25, 0.25, 0.25]
+		}
+	}
+}

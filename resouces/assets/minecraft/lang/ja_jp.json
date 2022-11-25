@@ -1,0 +1,17 @@
+{
+  "enchantment.level.-1": "-Ⅰ",
+  "enchantment.level.-2": "-Ⅱ",
+  "enchantment.level.-3": "-Ⅲ",
+  "enchantment.level.-4": "-Ⅳ",
+  "enchantment.level.-5": "-Ⅴ",
+  "enchantment.level.-6": "-Ⅵ",
+  "enchantment.level.-7": "-Ⅶ",
+  "enchantment.level.-8": "-Ⅷ",
+  "enchantment.level.-9": "-Ⅸ",
+  "enchantment.level.-10": "-Ⅹ",
+  "effect.minecraft.luck": "ダメージ軽減",
+  "effect.minecraft.unluck": "食事制限",
+  "effect.minecraft.bad_omen": "天の印章",
+  "effect.minecraft.conduit_power": "固定ダメージ上昇",
+  "advancements.toast.goal": "[buff]"
+}
